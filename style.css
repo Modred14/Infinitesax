@@ -238,13 +238,13 @@ a {
     margin-top: 93px;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 415px) {
     .background-container {
         background-image: url(./background.png);
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
-        width: 100%;
+        width: 415px;
         margin: 0px;
         overflow-x: hidden;
     }
@@ -280,11 +280,11 @@ a {
         margin-left: 120.2px;
         margin-top: 10.42px;
         display: grid;
-        grid-template-columns: repeat(2, 42px);
+        grid-template-columns: repeat(2, 60px);
     }
     a {
         text-decoration: none;
-        font-size: 10px; /* Adjust the font size as needed */
+        font-size: 13px; /* Adjust the font size as needed */
         font-weight: bold; /* Make the text bold */
         white-space: nowrap; /* Prevents text from wrapping */
         overflow: hidden; /* Hides any overflowing text */
@@ -292,7 +292,7 @@ a {
     }
     .header1 {
         height: 35px;
-        width: 375px;
+        width: 415px;
         margin-top: 10px;
         font-weight: bold;
         position: relative;
@@ -341,9 +341,9 @@ a {
         font-weight: bolder;
         margin-bottom: 0px;
         text-decoration: underline;
-        width: 375px;
+        /* width: 415px; */
         margin-left: 8%;
-        display: inline;
+        display: block;
     }
     .header6 {
         font-size: 25px;
@@ -351,7 +351,7 @@ a {
         font-weight: bolder;
         margin-bottom: 13.02px;
         text-decoration: underline;
-        width: 375px;
+        /* width: 415px; */
         margin-left: 4%;
         display: inline;
     }
@@ -377,7 +377,7 @@ a {
         height: 8px;
         margin-bottom: 20px;
         text-decoration: underline;
-        width: 360px;
+        width: 405px;
     }
     .h7{
         margin-left: 7.8125px;
@@ -386,7 +386,7 @@ a {
         margin-bottom: 13.02px;
         font-weight: bolder;
         margin-top: 18.229px;
-        width: 360px;
+        width: 405px;
     }
     .imh {
         margin-left: 10%;
@@ -419,14 +419,14 @@ a {
     }
     .img5 {
         height: 540.5px;
-        width: 400px;
+        width: 50%;
     }
     .p1 {
         font-size: 20px;
         margin-left: 7.9125px;
         margin-right: 7.9125px;
         text-align: justify;
-        width: 360px;
+        width: 405px;
     }
    
     .h3 {

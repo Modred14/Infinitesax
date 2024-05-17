@@ -210,7 +210,7 @@ a {
     padding: 20px; /* Adjust padding as needed */
     border-top: 2px solid white; /* Change border properties as needed */
     margin-top: 30px;
-    height: 100px;
+    height: auto;
 }
 .h4 {
     position: absolute;

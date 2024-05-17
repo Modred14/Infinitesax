@@ -270,11 +270,11 @@ a {
     }
       
     a:hover {
-        color: blue; /* Color for links on hover */
+        color: white;
     }
       
     a:active {
-        color: red; /* Color for links when clicked */
+        color: white; /* Color for links when clicked */
     }
     .link {
         margin-left: 120.2px;
@@ -305,7 +305,7 @@ a {
         margin-left: 30.33px;
     }
     .imf{
-        margin-left: 20%;
+        left: 50%;
         height: 70%;
         width: 70%; 
     }
@@ -389,12 +389,12 @@ a {
         width: 405px;
     }
     .imh {
-        margin-left: 10%;
+        left: 50%;
         height: 85%;
         width: 85%; 
     }
     .img1 {
-        margin-left: 5%;
+        left: 50%;
         height: 85%;
         width: 85%; 
     }
@@ -403,7 +403,7 @@ a {
     }
     .img3 {
         display: inline;
-        margin-left: 5%;
+        left: 50%;
         height: 100%;
         width: 87%; 
     }
@@ -419,7 +419,7 @@ a {
     }
     .img5 {
         height: 540.5px;
-        width: 50%;
+        width: 50%
     }
     .p1 {
         font-size: 20px;

@@ -238,13 +238,13 @@ a {
     margin-top: 93px;
 }
 
-@media only screen and (max-width: 415px) {
+@media only screen and (max-width: 758px) {
     .background-container {
         background-image: url(./background.png);
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
-        width: 415px;
+        max-width: 758px;
         margin: 0px;
         overflow-x: hidden;
     }
@@ -292,7 +292,7 @@ a {
     }
     .header1 {
         height: 35px;
-        width: 415px;
+        max-width: 758px;
         margin-top: 10px;
         font-weight: bold;
         position: relative;
